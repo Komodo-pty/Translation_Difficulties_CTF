@@ -2,8 +2,6 @@
 My submission for the Qualcomm LayerOne 2026 CTF.
 The event is over, but you can attempt this challenge by using the provided shell script.
 
-./flag_submission.sh
-
 ## Decoding
 Intercepted Transmissions
 (100 Points)
