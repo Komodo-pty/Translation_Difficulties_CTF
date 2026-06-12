@@ -24,3 +24,5 @@ chmod +x ./flag_submission.sh
 
 ### Hint
 If you don't input the correct flag, you'll get the option to redeem a hint.
+
+![alt text](https://github.com/Komodo-pty/Translation_Difficulties_CTF/blob/main/Qualcomm_LayerOne_CTF_2026.png)
